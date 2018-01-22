@@ -1,0 +1,16 @@
+{
+    "name": "doge-dev/laravel-mongo-passport",
+    "description": "Laravel Passport implementation for MongoDB",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marko Maletic",
+            "email": "maletic.marko@live.com"
+        }
+    ],
+    "require": {
+        "laravel/passport": "*",
+        "jenssegers/mongodb": "*"
+    }
+}
