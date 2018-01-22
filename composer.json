@@ -12,5 +12,10 @@
     "require": {
         "laravel/passport": "*",
         "jenssegers/mongodb": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "DogeDev\\Passport\\": "src/"
+        }
     }
 }
