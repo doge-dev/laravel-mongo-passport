@@ -1,6 +1,7 @@
 {
     "name": "doge-dev/laravel-mongo-passport",
     "description": "Laravel Passport implementation for MongoDB",
+    "keywords": ["laravel", "mongo", "mongodb", "passport"],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,7 +11,6 @@
         }
     ],
     "require": {
-        "laravel/passport": "*",
         "jenssegers/mongodb": "*"
     },
     "autoload": {
